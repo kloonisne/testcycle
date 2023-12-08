@@ -32,7 +32,7 @@ import android.view.ViewGroup.LayoutParams;
 import android.view.animation.Interpolator;
 import android.widget.LinearLayout;
 
-import com.kloonisne.cyclicwheel.adapters.WheelViewAdapter;
+import com.kloonisne.testcycle.adapters.WheelViewAdapter;
 
 import java.util.LinkedList;
 import java.util.List;
